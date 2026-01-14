@@ -8,9 +8,9 @@ import requests
 def ercot_connection(data_url):
     # USER MUST PROVIDE THIS INFORMATION
     #
-    USERNAME = "aviyan.khadka@engie.com"
-    PASSWORD = "u_kCNZRzh8BT2HC"
-    
+
+    USERNAME = ""
+    PASSWORD = ""
 
     # Authorization URL for signing into ERCOT Public API account
     #
