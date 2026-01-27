@@ -1,0 +1,35 @@
+[33mcommit 234e1e59fc67b8c3f9f9e9d1ca69495e9b4f93d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aviyan khadka <aviyan.khadka@engie.com>
+Date:   Tue Jan 27 13:34:24 2026 -0600
+
+    some add/deletes
+
+[33mcommit 2135aca88ed9d520955f5d25abdc4141216aa41a[m
+Author: aviyan khadka <aviyan.khadka@engie.com>
+Date:   Tue Jan 27 13:28:35 2026 -0600
+
+    some changes
+
+[33mcommit f8e9b34b15f7b0cffc96f0e546e94385fc1753f3[m
+Author: aviyan khadka <aviyan.khadka@engie.com>
+Date:   Wed Jan 14 13:22:31 2026 -0600
+
+    configured to hide u/n and pass
+
+[33mcommit ffa58a2affcc9bf18d8cce7cdd5a79a1dfc5d186[m
+Author: aviyan khadka <aviyan.khadka@engie.com>
+Date:   Wed Jan 14 13:19:13 2026 -0600
+
+    added a gitignore file
+
+[33mcommit 6d3cbbddc1d0fe5d48947dcee1eb27b10b685311[m
+Author: aviyan khadka <aviyan.khadka@engie.com>
+Date:   Wed Jan 14 13:03:09 2026 -0600
+
+    removed credentials
+
+[33mcommit b6fd64556239090ab724f5a62f6215853498b3fe[m
+Author: aviyan khadka <aviyan.khadka@engie.com>
+Date:   Wed Jan 14 11:16:17 2026 -0600
+
+    First Commit
