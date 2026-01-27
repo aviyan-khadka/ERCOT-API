@@ -14,7 +14,7 @@ def ercot_connection(data_url):
 
     # Sign In/Authenticate
     access_token = ""
-    auth_response = requests.post(AUTH_URL.format(username = USERNAME, password=PASSWORD), verify=False)
+    auth_response = requests.post(AUTH_URL.format(username = USERNAME, password=PASSWORD))
     if auth_response.status_code != 200:
         auth_msg = "Authentication Failed"
     else:
