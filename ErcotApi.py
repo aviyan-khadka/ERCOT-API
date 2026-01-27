@@ -1,12 +1,13 @@
 #Import Packages
 import pandas as pd
 import requests 
+from config_local import USERNAME, PASSWORD
 
 #ERCOT API Calls
 def ercot_connection(data_url):
     # USER MUST PROVIDE THIS INFORMATION
     #
-    from config_local import USERNAME, PASSWORD
+    
 
     # Authorization URL for signing into ERCOT Public API account
     #
